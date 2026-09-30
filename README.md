@@ -14,9 +14,13 @@ I built COHORT's agent-coordination functions to organize my own projects and ta
 
 [Repository](https://github.com/djaykurtz/COHORT) &nbsp; / &nbsp; [Project story](https://djaykurtz.github.io/COHORT/) &nbsp; / &nbsp; [Functional synthetic demo](https://djaykurtz.github.io/COHORT/demo/)
 
-<a href="https://djaykurtz.github.io/assets/cohort-tasks.png" title="View full-resolution COHORT image"><img src="https://djaykurtz.github.io/assets/cohort-tasks.png" alt="OFFLINE / SYNTHETIC ZeroBrain task dashboard with sample ownership and review states; no live agents or production results." width="720"></a>
+[Explore system atlas](https://djaykurtz.github.io/COHORT/systems/) &nbsp; / &nbsp; [Try research and decisions](https://djaykurtz.github.io/COHORT/demo/?view=governance)
 
-*OFFLINE / SYNTHETIC: selected dashboard/frontend and architecture/contracts, not the whole runtime; coordinator/backend/database omitted. Five fixture-driven layers, drilldowns, and in-memory simulation/reset; no API calls, credentials, or persistent changes.*
+The atlas maps documented/exported systems, authority, handoffs, and runtime availability, not a complete bundled runtime. Deliberation waves are not delivery; votes are audit evidence, not a numeric ratification gate.
+
+<a href="https://djaykurtz.github.io/assets/cohort-governance.png" title="View full-resolution COHORT image"><img src="https://djaykurtz.github.io/assets/cohort-governance.png" alt="OFFLINE / SYNTHETIC research and decisions inspector with illustrative votes and deliberation evidence; no backend or real agent decisions." width="720"></a>
+
+*OFFLINE / SYNTHETIC: selected dashboard/frontend and architecture/contracts, not the whole runtime; coordinator/backend/database omitted. Fixture-driven layers, drilldowns, and in-memory simulation/reset; no API calls, credentials, or persistent changes.*
 
 ### [ANS-CHOCO](https://djaykurtz.github.io/#ans-choco)
 
