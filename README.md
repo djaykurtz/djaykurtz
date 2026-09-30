@@ -36,7 +36,7 @@ Policy-driven Windows software alignment with Ansible and Chocolatey, from revie
 
 A recorded four-node Azure Local lab proof of concept spanning physical fabric, pooled storage, Arc management, Kubernetes, and workload delivery. Progressive movements and evidence cutaways explain the engineering.
 
-[Repository](https://github.com/djaykurtz/AZLOCAL-POC) &nbsp; / &nbsp; [Interactive capstone](https://djaykurtz.github.io/AZLOCAL-POC/)
+[Repository](https://github.com/djaykurtz/AZLOCAL-POC) &nbsp; / &nbsp; [Guided capstone](https://djaykurtz.github.io/AZLOCAL-POC/viewer/) &nbsp; / &nbsp; [Standalone presenter](https://djaykurtz.github.io/AZLOCAL-POC/)
 
 <a href="https://djaykurtz.github.io/assets/azure-local-architecture.png" title="View full-resolution Azure Local image"><img src="https://djaykurtz.github.io/assets/azure-local-architecture.png" alt="Static Azure Local capstone view of generic fabric, platform, Arc bridge, pooled storage, and memory scope; not a connected Azure dashboard." width="720"></a>
 
