@@ -36,7 +36,7 @@ Catalogs and policy, inventories, package sources, and authentication are config
 
 ### [Azure Local POC](https://djaykurtz.github.io/#azure-local)
 
-A recorded four-node Azure Local lab proof of concept spanning physical fabric, pooled storage, Arc management, Kubernetes, and workload delivery. Progressive movements and evidence cutaways explain the engineering.
+An initial six-node Azure Local cluster goal became a resource-aware design exercise using available lab hardware. The delivered four-node POC connects physical fabric, pooled storage, Arc management, Kubernetes, and workloads, with the capstone showing the engineering choices behind the working platform.
 
 [Repository](https://github.com/djaykurtz/AZLOCAL-POC) &nbsp; / &nbsp; [Guided capstone](https://djaykurtz.github.io/AZLOCAL-POC/viewer/) &nbsp; / &nbsp; [Standalone presenter](https://djaykurtz.github.io/AZLOCAL-POC/)
 
