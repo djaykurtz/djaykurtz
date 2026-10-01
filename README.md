@@ -24,15 +24,15 @@ The atlas maps documented/exported systems, authority, handoffs, and runtime ava
 
 ### [ANS-CHOCO](https://djaykurtz.github.io/#ans-choco)
 
-Policy-driven Windows software alignment with Ansible and Chocolatey, from reviewed package intent to per-host deployment evidence. Explore the source-grounded architecture, build/deploy workflows, and reporting.
+Policy-driven Windows software alignment with Ansible and Chocolatey, from reviewed package intent to per-host deployment evidence. Modular build/deploy roles, catalog and inventory policy, explicit reboot controls, and retry evidence make the operational workflow inspectable.
 
-Catalogs and policy, inventories, package sources, and authentication are configurable rather than tied to one lab. Execution currently uses Ansible and WinRM. Planned, not implemented: Azure Arc delivery through official modules and client-based authentication to reduce reliance on WinRM.
+Catalogs and policy, inventories, package sources, and authentication are configurable rather than tied to one lab. Execution currently uses Ansible and WinRM. As deployment scale, business scope, and security requirements evolve, future enhancement options include Azure Arc execution through official modules and client-based authentication, with the aim of reducing reliance on WinRM.
 
 [Repository](https://github.com/djaykurtz/ANS-CHOCO) &nbsp; / &nbsp; [Explore architecture](https://djaykurtz.github.io/ANS-CHOCO/)
 
 <a href="https://djaykurtz.github.io/assets/ans-choco-architecture.png" title="View full-resolution ANS-CHOCO image"><img src="https://djaykurtz.github.io/assets/ans-choco-architecture.png" alt="ANS-CHOCO architecture connecting catalog and inventory to Ansible build/deploy, Windows reconciliation, and deployment evidence." width="720"></a>
 
-*Static showcase, not live fleet operations. Some package operations remain stubs; sysPatch and cloud credential integration are incomplete. Operational configuration is environment-specific; viewing the showcase requires no targets or credentials.*
+*Static, source-grounded architecture showcase of the delivered application-alignment workflow. Operational use requires environment-specific targets, package sources, and credentials; viewing the showcase connects to no fleet and requires none of these.*
 
 ### [Azure Local POC](https://djaykurtz.github.io/#azure-local)
 
