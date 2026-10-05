@@ -16,9 +16,9 @@ I built COHORT's agent-coordination functions to organize my own projects and ta
 
 [Explore system atlas](https://djaykurtz.github.io/COHORT/systems/) &nbsp; / &nbsp; [Try research and decisions](https://djaykurtz.github.io/COHORT/demo/?view=governance)
 
-The atlas maps documented systems, authority, handoffs, runtime availability, and source evidence. Deliberation waves are not delivery; votes are audit evidence, not a numeric ratification gate.
+The atlas maps documented systems, authority, handoffs, runtime availability, and source evidence. On a design proposal, each node weighs in from its own specialty, and that input shapes what gets built.
 
-<a href="https://djaykurtz.github.io/assets/cohort-governance.png" title="View full-resolution COHORT image"><img src="https://djaykurtz.github.io/assets/cohort-governance.png" alt="Research and decisions inspector showing sample votes and deliberation evidence." width="720"></a>
+<a href="https://djaykurtz.github.io/assets/cohort-governance.png" title="View full-resolution COHORT image"><img src="https://djaykurtz.github.io/assets/cohort-governance.png" alt="Research and decisions inspector showing a sample design review with input from each team role." width="720"></a>
 
 *Interactive demo with sample data. Explore task, review, design, knowledge, and research/decision workflows through filters, drilldowns, and local simulation.*
 
