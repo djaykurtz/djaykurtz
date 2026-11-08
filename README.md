@@ -10,13 +10,13 @@ I work on making complex systems easier to coordinate, maintain, and understand,
 
 ### [COHORT](https://djaykurtz.github.io/#cohort)
 
-I built COHORT's agent-coordination functions to organize my own projects and tasks. The goal is a personal engineering team: distinct role perspectives, explicit ownership, review of exact artifacts, durable context, and visible unknowns/failures. Reliability, not bureaucracy. ZeroBrain / superdashv2 makes the work inspectable.
+I built COHORT's agent-coordination functions to organize my own projects and tasks. The goal is a personal engineering team: distinct role perspectives, explicit ownership, review of exact artifacts, durable context, and visible unknowns/failures. ZeroBrain / superdashv2 makes the work inspectable.
 
 [Repository](https://github.com/djaykurtz/COHORT) &nbsp; / &nbsp; [Project story](https://djaykurtz.github.io/COHORT/) &nbsp; / &nbsp; [Interactive demo](https://djaykurtz.github.io/COHORT/demo/)
 
 [Explore system atlas](https://djaykurtz.github.io/COHORT/systems/) &nbsp; / &nbsp; [Try research and decisions](https://djaykurtz.github.io/COHORT/demo/?view=governance)
 
-The atlas maps documented systems, authority, handoffs, runtime availability, and source evidence. On a design proposal, each node weighs in from its own specialty, and that input shapes what gets built.
+The atlas maps **37 documented systems**, authority, handoffs, runtime availability, and source evidence. On a design proposal, each node weighs in from its own specialty, and that input shapes what gets built.
 
 <a href="https://djaykurtz.github.io/assets/cohort-governance.png" title="View full-resolution COHORT image"><img src="https://djaykurtz.github.io/assets/cohort-governance.png" alt="Research and decisions inspector showing a sample design review with input from each team role." width="720"></a>
 
@@ -26,17 +26,17 @@ The atlas maps documented systems, authority, handoffs, runtime availability, an
 
 Policy-driven Windows software alignment with Ansible and Chocolatey, from reviewed package intent to per-host deployment evidence. Modular build/deploy roles, catalog and inventory policy, explicit reboot controls, and retry evidence make the operational workflow inspectable.
 
-Catalogs and policy, inventories, package sources, and authentication are configurable rather than tied to one lab. Execution currently uses Ansible and WinRM. As deployment scale, business scope, and security requirements evolve, future enhancement options include Azure Arc execution through official modules and client-based authentication, with the aim of reducing reliance on WinRM.
+Catalogs and policy, inventories, package sources, and authentication are configurable rather than tied to one lab. Execution currently uses Ansible and WinRM. As deployment scale, business scope, and security requirements grow, one future option is Azure Arc execution through official modules and client-based authentication, to reduce reliance on WinRM.
 
 [Repository](https://github.com/djaykurtz/ANS-CHOCO) &nbsp; / &nbsp; [Explore architecture](https://djaykurtz.github.io/ANS-CHOCO/)
 
 <a href="https://djaykurtz.github.io/assets/ans-choco-architecture.png" title="View full-resolution ANS-CHOCO image"><img src="https://djaykurtz.github.io/assets/ans-choco-architecture.png" alt="ANS-CHOCO architecture connecting catalog and inventory to Ansible build/deploy, Windows reconciliation, and deployment evidence." width="720"></a>
 
-*Explore the architecture of the delivered application-alignment workflow. Configure targets, package sources, and authentication to apply its policy-and-evidence model in your environment.*
+*Explore the architecture of the delivered application-alignment workflow.*
 
 ### [Azure Local POC](https://djaykurtz.github.io/#azure-local)
 
-An initial six-node Azure Local cluster goal became a resource-aware design exercise using available lab hardware. The delivered four-node POC connects physical fabric, pooled storage, Arc management, Kubernetes, and workloads, with the capstone showing the engineering choices behind the working platform.
+An initial six-node Azure Local cluster goal became a resource-aware design exercise using available lab hardware. The delivered **four-node POC** connects physical fabric, pooled storage, Arc management, Kubernetes, and workloads. The capstone shows the engineering choices behind the working platform.
 
 [Repository](https://github.com/djaykurtz/AZLOCAL-POC) &nbsp; / &nbsp; [Guided capstone](https://djaykurtz.github.io/AZLOCAL-POC/viewer/) &nbsp; / &nbsp; [Standalone presenter](https://djaykurtz.github.io/AZLOCAL-POC/)
 
